@@ -1,4 +1,4 @@
-import midimaker.*
+import com.auroratide.calliope.*
 
 fun main() {
     val player = Player()

@@ -1,4 +1,4 @@
-package midimaker
+package com.auroratide.calliope
 
 import javax.sound.midi.MidiEvent
 import javax.sound.midi.ShortMessage

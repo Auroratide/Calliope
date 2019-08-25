@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.3.41"
 }
 
-group = "midimaker"
+group = "com.auroratide.calliope"
 version = "1.0-SNAPSHOT"
 
 repositories {

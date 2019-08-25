@@ -1,4 +1,4 @@
-package midimaker
+package com.auroratide.calliope
 
 open class Note(val pitch: Byte)
 
